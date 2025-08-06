@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayasnani&label=Profile%20views&color=0e75b6&style=flat" alt="ajayasnani" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://ajayasnani-portfolio.netlify.app/](https://ajayasnani-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ajayasnani-portfolio.vercel.app/](https://ajayasnani-portfolio.vercel.app/)
 
 - 📫 How to reach me **ajaysnani555@gmail.com**
 
